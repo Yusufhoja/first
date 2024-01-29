@@ -1,0 +1,47 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.alar a {
+  text-decoration: none;
+}
+.alar {
+  display: flex;
+  justify-content: space-between;
+  width: 321px;
+}
+.left {
+  width: 40%;
+}
+.section1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sectionb {
+  background-color: #ede6dd;
+  height: 548px;
+}
+.inp {
+  width: 348px;
+  height: 56px;
+  background-color: white;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.inp input {
+  width: 115px;
+  height: 20px;
+  border: none;
+}
+.inp button {
+  width: 179px;
+  height: 40px;
+  background-color: #1e1928;
+  border-radius: 50px;
+  color: white;
+  border: none;
+}
